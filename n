@@ -1,0 +1,35 @@
+[33mcommit eb7f7a44d6e68a1aa1b092924ef73d5a29ae4c97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Tetiana Liubas <tet.liubas@gmail.com>
+Date:   Sat Jan 10 17:41:19 2026 +0200
+
+    add content
+
+[33mcommit d5470885e09889ef14e792b6c3ac3e884c6e5c8b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tetiana Liubas <tet.liubas@gmail.com>
+Date:   Fri Jan 9 22:19:03 2026 +0200
+
+    describe
+
+[33mcommit 51e5584c4c91fd503328e4a1692589bb76ededa0[m
+Author: Tetiana Liubas <tet.liubas@gmail.com>
+Date:   Fri Jan 9 22:16:52 2026 +0200
+
+    add two lines
+
+[33mcommit 0620b4c3b5927d731d5ff4904a8969a65eff4d35[m
+Author: tetiana liubas <tet.liubas@gmail.com>
+Date:   Fri Jan 9 21:40:56 2026 +0200
+
+    Add 4 new lines to song.txt
+
+[33mcommit dc1ad83296700e96cbb5a0e9dc8dd30f55e98c03[m
+Author: Tetiana Liubas <tet.liubas@gmail.com>
+Date:   Fri Jan 9 21:30:39 2026 +0200
+
+    add first 2 lines in the song
+
+[33mcommit eda1dcbf887973d0397780b95109ed8584247a6d[m
+Author: tetiana liubas <tet.liubas@gmail.com>
+Date:   Fri Jan 9 21:20:30 2026 +0200
+
+    Initial commit
